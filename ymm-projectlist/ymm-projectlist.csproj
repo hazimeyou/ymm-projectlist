@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>ymm_projectlist</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="YukkuriMovieMaker">
+      <HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.dll</HintPath>
+    </Reference>
+    <Reference Include="YukkuriMovieMaker.Controls">
+      <HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="YukkuriMovieMaker.Plugin">
+      <HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.Plugin.dll</HintPath>
+    </Reference>
+    <Reference Include="YukkuriMovieMaker.Plugin.Community">
+      <HintPath>..\..\..\YukkuriMovieMaker_v4\YukkuriMovieMaker.Plugin.Community.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+	<Target Name="CopyPluginDll" AfterTargets="Build">
+		<Copy SourceFiles="$(TargetDir)ymm-projectlist.dll" DestinationFolder="C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\plugin\a" SkipUnchangedFiles="true" />
+	</Target>
+</Project>

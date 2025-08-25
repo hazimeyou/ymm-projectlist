@@ -1,0 +1,64 @@
+<UserControl x:Class="ymm_projectlist.ToolView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="400" d:DesignWidth="600"
+             AllowDrop="True">
+    <Grid Background="Transparent">
+        <!-- 背景画像 -->
+        <Image Source="{Binding BackgroundImage}" Stretch="UniformToFill">
+            <Image.Style>
+                <Style TargetType="Image">
+                    <Setter Property="Visibility" Value="Visible"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding BackgroundImage}" Value="{x:Null}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Image.Style>
+        </Image>
+
+        <!-- プロジェクトタイル -->
+        <ScrollViewer>
+            <ItemsControl ItemsSource="{Binding Projects}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel IsItemsHost="True"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Width="150" Height="140" Margin="5" Background="#FFEEEEEE" CornerRadius="5"
+                                MouseLeftButtonUp="ProjectTile_MouseLeftButtonUp">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <!-- サムネイル -->
+                                    <RowDefinition Height="Auto" />
+                                    <!-- 名前 -->
+                                    <RowDefinition Height="Auto" />
+                                    <!-- 最終更新日時 -->
+                                </Grid.RowDefinitions>
+
+                                <!-- サムネイル画像 -->
+                                <Image Source="{Binding Thumbnail}" Stretch="Uniform" Margin="5"/>
+
+                                <!-- プロジェクト名 -->
+                                <TextBlock Grid.Row="1" Text="{Binding Name}" HorizontalAlignment="Center"
+                                           VerticalAlignment="Center" FontWeight="Bold" TextWrapping="Wrap"/>
+
+                                <!-- 最終更新日時 -->
+                                <TextBlock Grid.Row="2" Text="{Binding LastModified}" HorizontalAlignment="Center"
+                                           VerticalAlignment="Center" FontSize="10" Foreground="Gray"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

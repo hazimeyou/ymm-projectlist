@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ymm-projectlist": {
+      "commandName": "Project"
+    },
+    "プロファイル 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\hazimeyou\\Desktop\\YukkuriMovieMaker_v4\\YukkuriMovieMaker.exe"
+    }
+  }
+}
