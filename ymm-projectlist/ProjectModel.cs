@@ -1,66 +1,55 @@
 ﻿using System;
 using System.ComponentModel;
-using System.IO; // ← ここを追加
 using System.Runtime.CompilerServices;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
 
 namespace ymm_projectlist
 {
     public class ProjectModel : INotifyPropertyChanged
     {
-        public string Name { get; set; }
-        public string Path { get; set; }
+        private string _name;
+        public string Name
+        {
+            get => _name;
+            set { _name = value; OnPropertyChanged(); }
+        }
 
-        public string LastModified => File.Exists(Path) ? File.GetLastWriteTime(Path).ToString("yyyy/MM/dd HH:mm") : "";
+        private string _path;
+        public string Path
+        {
+            get => _path;
+            set { _path = value; OnPropertyChanged(); }
+        }
+
+        private string _thumbnailPath;
+        public string ThumbnailPath
+        {
+            get => _thumbnailPath;
+            set { _thumbnailPath = value; OnPropertyChanged(); }
+        }
 
         private ImageSource _thumbnail;
         public ImageSource Thumbnail
         {
-            get
-            {
-                if (_thumbnail == null)
-                    _thumbnail = LoadThumbnail();
-                return _thumbnail;
-            }
+            get => _thumbnail;
             set { _thumbnail = value; OnPropertyChanged(); }
         }
 
-        private ImageSource LoadThumbnail()
+        private DateTime _lastModified;
+        public DateTime LastModified
         {
-            try
-            {
-                // DLL のディレクトリ
-                string dllDir = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
-
-                // Images フォルダは DLL と同じ階層
-                string imgDir = System.IO.Path.Combine(dllDir, "Images");
-
-                string fileNameWithoutExt = System.IO.Path.GetFileNameWithoutExtension(Path);
-                string imgPath = System.IO.Path.Combine(imgDir, fileNameWithoutExt + ".png");
-
-                // 存在しなければ default file.png
-                if (!File.Exists(imgPath))
-                    imgPath = System.IO.Path.Combine(imgDir, "file.png");
-
-                if (File.Exists(imgPath))
-                {
-                    var bitmap = new BitmapImage();
-                    bitmap.BeginInit();
-                    bitmap.UriSource = new Uri(imgPath);
-                    bitmap.CacheOption = BitmapCacheOption.OnLoad;
-                    bitmap.EndInit();
-                    return bitmap;
-                }
-            }
-            catch { }
-
-            return null;
+            get => _lastModified;
+            set { _lastModified = value; OnPropertyChanged(); OnPropertyChanged(nameof(LastModifiedDisplay)); }
         }
 
+        // 表示用
+        public string LastModifiedDisplay => LastModified == DateTime.MinValue
+            ? ""
+            : LastModified.ToString("yyyy/MM/dd tt h:mm", System.Globalization.CultureInfo.CurrentCulture);
 
         public event PropertyChangedEventHandler PropertyChanged;
         private void OnPropertyChanged([CallerMemberName] string propertyName = null)
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+
     }
 }

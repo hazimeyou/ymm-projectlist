@@ -15,7 +15,6 @@ namespace ymm_projectlist
             Drop += ToolView_Drop;
         }
 
-        // ファイルを D&D したときの処理
         private void ToolView_Drop(object sender, DragEventArgs e)
         {
             if (DataContext is ToolViewModel vm && e.Data.GetDataPresent(DataFormats.FileDrop))
@@ -24,21 +23,20 @@ namespace ymm_projectlist
 
                 foreach (var file in files)
                 {
-                    // .ymmp ファイルのみ追加
                     if (file.EndsWith(".ymmp"))
-                        vm.AddProject(file);
+                    {
+                        _ = vm.AddProjectAsync(file); // 非同期で追加
+                    }
                 }
             }
         }
 
-        // タイルクリック時の処理
         private void ProjectTile_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
             if (DataContext is ToolViewModel vm)
             {
                 if (sender is Border border && border.DataContext is ProjectModel project)
                 {
-                    // プロジェクトを非表示 CMD で起動
                     vm.OpenProjectCommand.Execute(project);
                 }
             }

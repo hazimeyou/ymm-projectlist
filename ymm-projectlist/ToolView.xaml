@@ -47,13 +47,15 @@
                                 <!-- サムネイル画像 -->
                                 <Image Source="{Binding Thumbnail}" Stretch="Uniform" Margin="5"/>
 
+
                                 <!-- プロジェクト名 -->
                                 <TextBlock Grid.Row="1" Text="{Binding Name}" HorizontalAlignment="Center"
                                            VerticalAlignment="Center" FontWeight="Bold" TextWrapping="Wrap"/>
 
                                 <!-- 最終更新日時 -->
-                                <TextBlock Grid.Row="2" Text="{Binding LastModified}" HorizontalAlignment="Center"
-                                           VerticalAlignment="Center" FontSize="10" Foreground="Gray"/>
+                                <TextBlock Grid.Row="2" Text="{Binding LastModifiedDisplay}" HorizontalAlignment="Center"
+           VerticalAlignment="Center" FontSize="10" Foreground="Gray"/>
+
                             </Grid>
                         </Border>
                     </DataTemplate>
