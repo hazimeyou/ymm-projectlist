@@ -12,51 +12,39 @@ namespace ymm_projectlist.sousawindow
 {
     public static class ThumbnailGenerator
     {
-
         public static async Task<string> GenerateThumbnailAsync(string ymmpPath)
         {
             string exeDir = YukkuriMovieMaker.Commons.AppDirectories.AppDirectory;
             string userDir = YukkuriMovieMaker.Commons.AppDirectories.UserDirectory;
             string fileName = Path.GetFileNameWithoutExtension(ymmpPath);
             string dllDir = Path.GetDirectoryName(YukkuriMovieMaker.Commons.AppDirectories.PluginDirectory);
-            string projectlistplugin = Path.Combine(dllDir,"plugin", "ymm-projectlist");
+            string projectlistplugin = Path.Combine(dllDir, "plugin", "ymm-projectlist");
             string thumbDir = Path.Combine(projectlistplugin, "Images");
             Directory.CreateDirectory(thumbDir);
 
             string thumbPath = Path.Combine(thumbDir, fileName + ".png");
             string ffmpegPath = Path.Combine(userDir, "resources", "ffmpeg", "ffmpeg.exe");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] 編集済みexeDir: {exeDir}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] fileName: {fileName}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] dllDir: {dllDir}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] projectlistplugin: {projectlistplugin}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] thumbDir: {thumbDir}");
+
             LogHelper.WriteAsync($"[ThumbnailGenerator] thumbPath: {thumbPath}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] ffmpegPath: {ffmpegPath}");
             LogHelper.WriteAsync($"[ThumbnailGenerator] ymmpPath: {ymmpPath}");
-            //await LogHelper.WriteAsync($"[INFO] YMMPPath: {ymmpPath}");
-            //await LogHelper.WriteAsync($"[INFO] FFmpegPath: {ffmpegPath}");
-            //await LogHelper.WriteAsync($"[INFO] ThumbnailPath: {thumbPath}");
+
+            // 既にサムネイルがある場合はスキップ
+            if (File.Exists(thumbPath))
+            {
+                await LogHelper.WriteAsync($"[ThumbnailGenerator] 既存サムネイルを使用: {thumbPath}");
+                return thumbPath;
+            }
 
             if (!File.Exists(ffmpegPath))
-            {
-                //await LogHelper.WriteAsync($"[ERROR] ffmpeg.exe が見つかりません: {ffmpegPath}");
                 throw new FileNotFoundException("ffmpeg.exe が見つかりません", ffmpegPath);
-            }
 
             if (!File.Exists(ymmpPath))
-            {
-               // LogHelper.WriteAsync($"[ERROR] YMMPファイルが存在しません: {ymmpPath}");
                 throw new FileNotFoundException("YMMPファイルが存在しません", ymmpPath);
-            }
 
             string jsonText = await File.ReadAllTextAsync(ymmpPath);
-            JsonNode? root = JsonNode.Parse(jsonText);
-
+            var root = JsonNode.Parse(jsonText);
             if (root == null)
-            {
-               // await LogHelper.WriteAsync("[ERROR] YMMPファイルのJSON解析に失敗しました。");
                 throw new Exception("YMMPファイルのJSON解析に失敗しました。");
-            }
 
             string? firstVideoPath = root["Timelines"]?
                                        .AsArray()?
@@ -66,18 +54,13 @@ namespace ymm_projectlist.sousawindow
 
             if (string.IsNullOrEmpty(firstVideoPath))
             {
-               // await LogHelper.WriteAsync("[WARN] YMMP内の動画ファイルが見つかりません。YMMP自体を入力に使用します。");
-                firstVideoPath = ymmpPath;
+                firstVideoPath = ymmpPath; // YMMP自体を入力に
             }
 
-          //  await LogHelper.WriteAsync($"[INFO] Using video path: {firstVideoPath}");
-
             string args = $"-i \"{firstVideoPath}\" -vf scale=320:-1 -vframes 1 \"{thumbPath}\" -y";
-            // await LogHelper.WriteAsync($"[INFO] FFmpeg args: {args}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] firstVideoPath: {firstVideoPath}");
-            LogHelper.WriteAsync($"[ThumbnailGenerator] thumbPath: {thumbPath}");
             LogHelper.WriteAsync($"[ThumbnailGenerator] args: {args}");
-            await Task.Run(async () =>
+
+            await Task.Run(() =>
             {
                 var process = new Process
                 {
@@ -94,13 +77,13 @@ namespace ymm_projectlist.sousawindow
 
                 process.OutputDataReceived += (s, e) =>
                 {
-                    if (!string.IsNullOrEmpty(e.Data)) ;
+                    if (!string.IsNullOrEmpty(e.Data))
                         _ = LogHelper.WriteAsync($"[FFMPEG STDOUT] {e.Data}");
                 };
 
                 process.ErrorDataReceived += (s, e) =>
                 {
-                    if (!string.IsNullOrEmpty(e.Data)) ;
+                    if (!string.IsNullOrEmpty(e.Data))
                         _ = LogHelper.WriteAsync($"[FFMPEG STDERR] {e.Data}");
                 };
 
@@ -110,12 +93,13 @@ namespace ymm_projectlist.sousawindow
                 process.WaitForExit();
             });
 
-            if (File.Exists(thumbPath)) 
-             await LogHelper.WriteAsync($"[SUCCESS] Thumbnail生成完了: {thumbPath}");
+            if (File.Exists(thumbPath))
+                await LogHelper.WriteAsync($"[SUCCESS] Thumbnail生成完了: {thumbPath}");
             else
                 await LogHelper.WriteAsync($"[ERROR] Thumbnail生成失敗: {thumbPath}");
 
             return thumbPath;
         }
+
     }
 }

@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using ymm_projectlist.sousawindow;
 using ymm_projectlist.urakata;
 using YukkuriMovieMaker;
+using YukkuriMovieMaker.Plugin;
 using YukkuriMovieMaker.Project;
 namespace ymm_projectlist.meinwindow
 {
@@ -108,7 +109,7 @@ namespace ymm_projectlist.meinwindow
         public ProjectListViewModel()
         {
             string dllDir = Path.GetDirectoryName(YukkuriMovieMaker.Commons.AppDirectories.PluginDirectory);
-            _dataFile = Path.Combine(dllDir, "projects.json");
+            _dataFile = Path.Combine(dllDir,"plugin","ymm-projectlist", "projects.json");
             LogHelper.WriteAsync($"[ProjectListViewModel] dllDir: {dllDir}");
             LogHelper.WriteAsync($"[ProjectListViewModel] _dataFile: {_dataFile}");
 

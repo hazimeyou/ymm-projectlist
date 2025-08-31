@@ -12,8 +12,8 @@ namespace ymm_projectlist.urakata
         {
             try
             {
-                string log = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] {message}{Environment.NewLine}";
-                await File.AppendAllTextAsync(LogFile, log);
+               // string log = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] {message}{Environment.NewLine}";
+                //await File.AppendAllTextAsync(LogFile, log);
             }
             catch { /* ログ失敗は無視 */ }
         }
