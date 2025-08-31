@@ -1,0 +1,753 @@
+[2025-08-30 14:13:52] [PathManager] AppPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\YukkuriMovieMaker.exe
+[2025-08-30 14:13:52] [INPathManagerFO] AppDirectory: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:52] [PathManager] UserDirectory: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:52] [PathManager] PluginDirectory: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\plugin
+[2025-08-30 14:13:52] [PathManager] BackupDirectory: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\backup
+[2025-08-30 14:13:52] [PathManager] TemporaryDirectory: C:\Users\hazimeyou\AppData\Local\YukkuriMovieMaker\v4\temp\9fc345281bd5a7de60cc67d6ceeb35ae
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 1
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\1.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 2
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\2.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 3
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\3.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 4
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\4.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 5
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\5.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 6
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\6.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\7.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 8
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\8.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:13:59] [ThumbnailGenerator] fileName: 9
+[2025-08-30 14:13:59] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:13:59] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:13:59] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\9.ymmp
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-20-52-46-628.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-23-20-52-46-628.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-24-20-44-27-356.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-24-20-44-27-356.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-17-28-18-591.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-26-17-28-18-591.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png" -y
+[2025-08-30 14:13:59] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4
+[2025-08-30 14:13:59] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png" -y
+[2025-08-30 14:13:59] [FFMPEG STDERR] ffmpeg version n7.0-ffmpeg-windows-build-helpers Copyright (c) 2000-2024 the FFmpeg developers
+[2025-08-30 14:13:59] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:13:59] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:13:59] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:13:59] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:13:59] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:00] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-17-16-52-429.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png" -y
+[2025-08-30 14:14:00] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:00] [FFMPEG STDERR] ffmpeg version n7.0-ffmpeg-windows-build-helpers Copyright (c) 2000-2024 the FFmpeg developers
+[2025-08-30 14:14:00] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:00] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:00] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:00] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:01] [FFMPEG STDERR]     creation_time   : 2025-01-23T08:41:59.000000Z
+[2025-08-30 14:14:01] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:01] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:01] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 000001e04cc23a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:01] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:01] [FFMPEG STDERR]     creation_time   : 2025-01-24T11:48:41.000000Z
+[2025-08-30 14:14:01] [FFMPEG STDERR]   Duration: 00:04:12.61, start: 0.000000, bitrate: 9727 kb/s
+[2025-08-30 14:14:01] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:01] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:01] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-15-58-22-216.mp4':
+[2025-08-30 14:14:01] [FFMPEG STDERR]         creation_time   : 2025-01-23T08:41:59.000000Z
+[2025-08-30 14:14:02] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:02] [FFMPEG STDERR]     creation_time   : 2025-01-28T09:02:55.000000Z
+[2025-08-30 14:14:02] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:02] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:02] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 9482 kb/s, 30.08 fps, 90k tbr, 90k tbn (default)
+[2025-08-30 14:14:02] [FFMPEG STDERR]   Duration: 00:46:01.55, start: 0.000000, bitrate: 5989 kb/s
+[2025-08-30 14:14:02] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:02] [FFMPEG STDERR]     creation_time   : 2025-01-28T07:13:46.000000Z
+[2025-08-30 14:14:02] [FFMPEG STDERR]         creation_time   : 2025-01-24T11:48:41.000000Z
+[2025-08-30 14:14:02] [FFMPEG STDERR]         creation_time   : 2025-01-26T09:56:31.000000Z
+[2025-08-30 14:14:02] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:02] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:02] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:03] [FFMPEG STDERR]   Stream #0:1 -> #0:0 (h264 (native) -> png (native))
+[2025-08-30 14:14:03] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:03] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:03] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:03] [FFMPEG STDERR]     creation_time   : 2025-01-26T04:10:10.000000Z
+[2025-08-30 14:14:03] [FFMPEG STDERR] [swscaler @ 000001fd962a67c0] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:03] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:03] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png':
+[2025-08-30 14:14:03] [FFMPEG STDERR]   Duration: 01:20:05.70, start: 0.000000, bitrate: 13940 kb/s
+[2025-08-30 14:14:03] [FFMPEG STDERR]         creation_time   : 2025-01-28T09:02:55.000000Z
+[2025-08-30 14:14:03] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:03] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:03] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:03] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:03] [FFMPEG STDERR]   Duration: 00:19:15.12, start: 0.000000, bitrate: 17422 kb/s
+[2025-08-30 14:14:03] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:04] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:04] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:04] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:04] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.08 fps, 30.08 tbn (default)
+[2025-08-30 14:14:04] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:04] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:04] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:04] [FFMPEG STDERR] [swscaler @ 000001e052cb6b40] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:04] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:04] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png':
+[2025-08-30 14:14:04] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:04] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.02 fps, 30.02 tbn (default)
+[2025-08-30 14:14:04] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:04] [FFMPEG STDERR]         creation_time   : 2025-01-26T09:56:31.000000Z
+[2025-08-30 14:14:04] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:04] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:05] [FFMPEG STDERR] [image2 @ 0000026af6b66840] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:05] [FFMPEG STDERR] [swscaler @ 0000023bfd9c99c0] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:05] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:05] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:05] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\6.ymmp
+[2025-08-30 14:14:05] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:05] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:05] [FFMPEG STDERR] [image2 @ 000001fdccfad080] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:05] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:05] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:05] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:05] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:05] [FFMPEG STDERR] [out#0/image2 @ 000001fdccf99540] video:48KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:06] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.666x    
+[2025-08-30 14:14:06] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:06] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\7.ymmp
+[2025-08-30 14:14:06] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.03 fps, 30.03 tbn (default)
+[2025-08-30 14:14:06] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:06] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:06] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:06] [FFMPEG STDERR]         creation_time   : 2025-01-28T01:58:55.000000Z
+[2025-08-30 14:14:06] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:06] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:06] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:06] [ThumbnailGenerator] fileName: 9
+[2025-08-30 14:14:06] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:06] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:06] [FFMPEG STDERR]         creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:06] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:06] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:06] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:06] [FFMPEG STDERR] [swscaler @ 0000024ef1487f00] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:06] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:06] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png':
+[2025-08-30 14:14:07] [ThumbnailGenerator] fileName: 1
+[2025-08-30 14:14:07] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:07] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:07] [FFMPEG STDERR] [image2 @ 0000023bf6ded1c0] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:07] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png':
+[2025-08-30 14:14:07] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:07] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:07] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:07] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:07] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:07] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:07] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:07] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:07] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:07] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:07] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:07] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:07] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:07] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+[2025-08-30 14:14:07] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:07] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:07] [FFMPEG STDERR]         creation_time   : 2025-01-26T04:10:10.000000Z
+[2025-08-30 14:14:07] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:07] [FFMPEG STDERR] [image2 @ 0000024eeb26cd00] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:07] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:07] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:07] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:07] [FFMPEG STDERR] [image2 @ 000001d1b3863040] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:07] [FFMPEG STDERR] [out#0/image2 @ 0000024eeb269380] video:62KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:07] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.01 bitrate=N/A dup=3 drop=0 speed=0.0266x    
+[2025-08-30 14:14:07] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\3.ymmp
+[2025-08-30 14:14:08] [FFMPEG STDERR] 
+[2025-08-30 14:14:08] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:08] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:08] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:08] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:08] [ThumbnailGenerator] fileName: 5
+[2025-08-30 14:14:08] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:08] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:08] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:08] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\5.ymmp
+[2025-08-30 14:14:08] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:08] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:08] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:08] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:08] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png" -y
+[2025-08-30 14:14:08] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:08] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-15-58-22-216.mp4
+[2025-08-30 14:14:08] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:08] [FFMPEG STDERR] ffmpeg version n7.0-ffmpeg-windows-build-helpers Copyright (c) 2000-2024 the FFmpeg developers
+[2025-08-30 14:14:08] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:08] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavcodec     61.  3.100 / 61.  3.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDOUT] 
+[2025-08-30 14:14:08] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:08] [FFMPEG STDOUT] 
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:08] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4':
+[2025-08-30 14:14:08] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:08] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:08] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:08] [ThumbnailGenerator] fileName: 5
+[2025-08-30 14:14:08] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:08] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-15-58-22-216.mp4':
+[2025-08-30 14:14:08] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:09] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:09] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:09] [FFMPEG STDERR]   Duration: 00:19:15.12, start: 0.000000, bitrate: 17422 kb/s
+[2025-08-30 14:14:09] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:09] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\5.ymmp
+[2025-08-30 14:14:09] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:09] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:09] [FFMPEG STDERR]     creation_time   : 2025-01-28T07:13:46.000000Z
+[2025-08-30 14:14:09] [ThumbnailGenerator] fileName: 6
+[2025-08-30 14:14:09] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:09] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:09] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:09] [FFMPEG STDERR]     creation_time   : 2025-01-28T01:58:55.000000Z
+[2025-08-30 14:14:09] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 17158 kb/s, 30.02 fps, 59.94 tbr, 90k tbn (default)
+[2025-08-30 14:14:09] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:09] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:09] [FFMPEG STDERR]         creation_time   : 2025-01-28T06:58:18.000000Z
+[2025-08-30 14:14:09] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-17-16-52-429.mp4':
+[2025-08-30 14:14:09] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:09] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:09] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\6.ymmp
+[2025-08-30 14:14:09] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:09] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:10] [FFMPEG STDERR]         creation_time   : 2025-01-28T01:58:55.000000Z
+[2025-08-30 14:14:10] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:10] [FFMPEG STDERR]     creation_time   : 2025-01-28T09:02:55.000000Z
+[2025-08-30 14:14:10] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:10] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:10] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:10] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:10] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:10] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:10] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:10] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\7.ymmp
+[2025-08-30 14:14:10] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:10] [FFMPEG STDERR] [swscaler @ 000002ae65a08900] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:10] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:10] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:10] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 5721 kb/s, 30.05 fps, 30 tbr, 90k tbn (default)
+[2025-08-30 14:14:10] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:11] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:11] [FFMPEG STDERR] [swscaler @ 0000028f36827200] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:11] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:11] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png':
+[2025-08-30 14:14:11] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:11] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:11] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:11] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:11] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\8.ymmp
+[2025-08-30 14:14:11] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:11] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:11] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:11] [ThumbnailGenerator] fileName: 9
+[2025-08-30 14:14:11] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.03 fps, 30.03 tbn (default)
+[2025-08-30 14:14:11] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:11] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:11] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:11] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:11] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\9.ymmp
+[2025-08-30 14:14:11] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:11] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:11] [FFMPEG STDERR] [image2 @ 000002ae5f769280] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:11] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.01 bitrate=N/A dup=3 drop=0 speed=0.258x    
+[2025-08-30 14:14:11] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:11] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:12] [FFMPEG STDERR]         creation_time   : 2025-01-28T01:58:55.000000Z
+[2025-08-30 14:14:12] [FFMPEG STDERR] [out#0/image2 @ 000002ae5f76c7c0] video:46KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:12] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.551x    
+[2025-08-30 14:14:12] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:12] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:12] [FFMPEG STDERR] [image2 @ 0000028f305793c0] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:12] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:12] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:12] [FFMPEG STDERR]         creation_time   : 2025-01-28T09:02:55.000000Z
+[2025-08-30 14:14:12] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:12] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:12] [FFMPEG STDERR]         encoder         : Lavc61.3.100 png
+[2025-08-30 14:14:12] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.532x    
+[2025-08-30 14:14:12] [FFMPEG STDERR] 
+[2025-08-30 14:14:12] [ThumbnailGenerator] fileName: 2
+[2025-08-30 14:14:12] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:12] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:12] [FFMPEG STDERR] [out#0/image2 @ 00000200adbe9540] video:48KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:12] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.635x    
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:12] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\2.ymmp
+[2025-08-30 14:14:12] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:12] [ThumbnailGenerator] fileName: 3
+[2025-08-30 14:14:12] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:12] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:12] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\3.ymmp
+[2025-08-30 14:14:12] [ThumbnailGenerator] 編集済みexeDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4
+[2025-08-30 14:14:12] [ThumbnailGenerator] fileName: 4
+[2025-08-30 14:14:12] [ThumbnailGenerator] dllDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user
+[2025-08-30 14:14:12] [ThumbnailGenerator] projectlistplugin: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbDir: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] ffmpegPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\resources\ffmpeg\ffmpeg.exe
+[2025-08-30 14:14:12] [ThumbnailGenerator] ymmpPath: G:\1\テスト用\4.ymmp
+[2025-08-30 14:14:12] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:12] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:12] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4
+[2025-08-30 14:14:12] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png" -y
+[2025-08-30 14:14:12] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-20-52-46-628.mp4
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:12] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-24-20-44-27-356.mp4
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-24-20-44-27-356.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png" -y
+[2025-08-30 14:14:12] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4
+[2025-08-30 14:14:12] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:12] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png" -y
+[2025-08-30 14:14:12] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-17-28-18-591.mp4
+[2025-08-30 14:14:12] [FFMPEG STDERR] ffmpeg version n7.0-ffmpeg-windows-build-helpers Copyright (c) 2000-2024 the FFmpeg developers
+[2025-08-30 14:14:12] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:12] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:12] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:12] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:12] [FFMPEG STDERR] ffmpeg version n7.0-ffmpeg-windows-build-helpers Copyright (c) 2000-2024 the FFmpeg developers
+[2025-08-30 14:14:12] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:12] [FFMPEG STDOUT] 
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavcodec     61.  3.100 / 61.  3.100
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavcodec     61.  3.100 / 61.  3.100
+[2025-08-30 14:14:12] [FFMPEG STDOUT] 
+[2025-08-30 14:14:12] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 0000025d73703a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:13] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:13] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:13] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:13] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:13] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:13] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:13] [FFMPEG STDERR]     creation_time   : 2025-01-23T08:41:59.000000Z
+[2025-08-30 14:14:13] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:13] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:13] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:13] [FFMPEG STDERR]     creation_time   : 2025-01-24T11:48:41.000000Z
+[2025-08-30 14:14:13] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:13] [FFMPEG STDERR]   Duration: 00:04:12.61, start: 0.000000, bitrate: 9727 kb/s
+[2025-08-30 14:14:13] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:13] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:13] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:13] [FFMPEG STDERR]   Duration: 01:28:12.05, start: 0.000000, bitrate: 18047 kb/s
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:14] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:14] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:14] [FFMPEG STDERR]         creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:14] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:14] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:14] [FFMPEG STDERR]     creation_time   : 2025-01-26T04:10:10.000000Z
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 19795 kb/s, 30.04 fps, 30 tbr, 90k tbn (default)
+[2025-08-30 14:14:14] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Duration: 01:20:05.70, start: 0.000000, bitrate: 13940 kb/s
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 9482 kb/s, 30.08 fps, 90k tbr, 90k tbn (default)
+[2025-08-30 14:14:14] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:14] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:14] [FFMPEG STDERR]         creation_time   : 2025-01-26T04:10:10.000000Z
+[2025-08-30 14:14:14] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:14] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Stream #0:1 -> #0:0 (h264 (native) -> png (native))
+[2025-08-30 14:14:14] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:14] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:14] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:14] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:14] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:14] [FFMPEG STDERR] [swscaler @ 000001e27e75f140] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:14] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:14] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png':
+[2025-08-30 14:14:14] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:15] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:15] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:15] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:15] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:15] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:15] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 29.94 fps, 29.94 tbn (default)
+[2025-08-30 14:14:15] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR]         creation_time   : 2025-01-23T08:41:59.000000Z
+[2025-08-30 14:14:15] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:15] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:15] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:15] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:15] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+[2025-08-30 14:14:15] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:15] [FFMPEG STDERR]     Last message repeated 3 times
+[2025-08-30 14:14:15] [FFMPEG STDERR]         creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:15] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:15] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:15] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR] [out#0/image2 @ 0000024dcd444cc0] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:15] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:15] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:15] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:15] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.08 fps, 30.08 tbn (default)
+[2025-08-30 14:14:15] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:15] [FFMPEG STDERR] 
+[2025-08-30 14:14:15] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:15] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:15] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:16] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.462x    
+[2025-08-30 14:14:16] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:16] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:16] [FFMPEG STDERR] [out#0/image2 @ 0000025d737ab780] video:66KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:16] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.585x    
+[2025-08-30 14:14:16] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:16] [FFMPEG STDERR] [image2 @ 000002475d826840] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:16] [FFMPEG STDERR] [image2 @ 000002475d826840] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:16] [FFMPEG STDERR] [out#0/image2 @ 000002475f4613c0] video:55KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:16] [FFMPEG STDERR] [image2 @ 0000024834d43040] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:16] [FFMPEG STDERR] [image2 @ 0000024834d43040] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:16] [FFMPEG STDERR] [out#0/image2 @ 0000024834189300] video:35KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:16] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.511x    
+[2025-08-30 14:14:16] [FFMPEG STDERR] 
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-17-28-18-591.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-26-17-28-18-591.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png" -y
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png" -y
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png" -y
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-15-58-22-216.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-15-58-22-216.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png" -y
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-28-17-16-52-429.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-28-17-16-52-429.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png" -y
+[2025-08-30 14:14:16] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:16] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-23-17-21-20-295.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png" -y
+[2025-08-30 14:14:16] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:16] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-23-20-52-46-628.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-23-20-52-46-628.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png" -y
+[2025-08-30 14:14:16] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:16] [FFMPEG STDOUT] 
+[2025-08-30 14:14:16] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:16] [FFMPEG STDOUT] 
+[2025-08-30 14:14:16] [FFMPEG STDERR]   libavutil      59.  8.100 / 59.  8.100
+[2025-08-30 14:14:16] [ThumbnailGenerator] firstVideoPath: G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4
+[2025-08-30 14:14:16] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:16] [ThumbnailGenerator] args: -i "G:\1\Screenrecorder-2025-01-26-11-50-02-472.mp4" -vf scale=320:-1 -vframes 1 "C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png" -y
+[2025-08-30 14:14:16] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:16] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:16] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:17] [FFMPEG STDERR]   configuration: --pkg-config=pkg-config --pkg-config-flags=--static --extra-version=ffmpeg-windows-build-helpers --enable-version3 --disable-debug --disable-w32threads --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --enable-libcaca --enable-gray --enable-libtesseract --enable-fontconfig --enable-gmp --enable-libass --enable-libbluray --enable-libbs2b --enable-libflite --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopus --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libvorbis --enable-libwebp --enable-libzimg --enable-libzvbi --enable-libmysofa --enable-libopenjpeg --enable-libopenh264 --enable-libvmaf --enable-libsrt --enable-libxml2 --enable-opengl --enable-libdav1d --enable-gnutls --enable-libsvtav1 --enable-libvpx --enable-libaom --enable-nvenc --enable-nvdec --extra-libs=-lz --extra-libs=-lpng --extra-libs=-lm --extra-libs=-lfreetype --extra-libs=-lshlwapi --extra-libs=-lmpg123 --extra-libs=-lpthread --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --enable-amf --enable-libmfx --enable-libaribcaption --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-static --disable-shared --prefix=/home/user/ffmpeg-windows-build-helpers/sandbox/cross_compilers/mingw-w64-x86_64/x86_64-w64-mingw32
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   built with gcc 10.2.0 (GCC)
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavformat    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavdevice    61.  1.100 / 61.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libavfilter    10.  1.100 / 10.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libswscale      8.  1.100 /  8.  1.100
+[2025-08-30 14:14:17] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:17] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:17] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 00000177e4dd3a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:18] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-15-38-55-219.mp4':
+[2025-08-30 14:14:18] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 00000173c9b53a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:18] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:18] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:18] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 00000131025e3a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:18] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:18] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:18] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:18] [FFMPEG STDERR] Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\1\Screenrecorder-2025-01-28-10-37-50-202.mp4':
+[2025-08-30 14:14:18] [FFMPEG STDERR]   libswresample   5.  1.100 /  5.  1.100
+[2025-08-30 14:14:18] [FFMPEG STDERR] [mov,mp4,m4a,3gp,3g2,mj2 @ 000002010fb73a00] Skipping unhandled metadata com.video.file.type of type 67
+[2025-08-30 14:14:18] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:18] [FFMPEG STDERR]   Duration: 00:19:15.12, start: 0.000000, bitrate: 17422 kb/s
+[2025-08-30 14:14:18] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:18] [FFMPEG STDERR]     creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:18] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:19] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:19] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:19] [FFMPEG STDERR]   Duration: 00:46:01.55, start: 0.000000, bitrate: 5989 kb/s
+[2025-08-30 14:14:19] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:19] [FFMPEG STDERR]         creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:19] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:19] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:19] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:19] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 17158 kb/s, 30.02 fps, 59.94 tbr, 90k tbn (default)
+[2025-08-30 14:14:19] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:19] [FFMPEG STDERR]         creation_time   : 2025-01-23T08:41:59.000000Z
+[2025-08-30 14:14:19] [FFMPEG STDERR]         creation_time   : 2025-01-28T07:13:46.000000Z
+[2025-08-30 14:14:19] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:19] [FFMPEG STDERR]   Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 264 kb/s (default)
+[2025-08-30 14:14:19] [FFMPEG STDERR]         creation_time   : 2025-01-24T11:48:41.000000Z
+[2025-08-30 14:14:19] [FFMPEG STDERR]         handler_name    : SoundHandle
+[2025-08-30 14:14:19] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:19] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 9482 kb/s, 30.08 fps, 90k tbr, 90k tbn (default)
+[2025-08-30 14:14:19] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:19] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:19] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:20] [FFMPEG STDERR]         creation_time   : 2025-01-28T09:02:55.000000Z
+[2025-08-30 14:14:20] [FFMPEG STDERR]         creation_time   : 2025-01-23T12:55:06.000000Z
+[2025-08-30 14:14:20] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:20] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 17785 kb/s, 30.02 fps, 90k tbr, 90k tbn (default)
+[2025-08-30 14:14:20] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:20] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:20] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:20] [FFMPEG STDERR] [swscaler @ 000001af79a35a80] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:20] [FFMPEG STDERR]         creation_time   : 2025-01-26T09:56:31.000000Z
+[2025-08-30 14:14:20] [FFMPEG STDERR]   Stream #0:1 -> #0:0 (h264 (native) -> png (native))
+[2025-08-30 14:14:20] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:20] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:20] [FFMPEG STDERR]   Stream #0:1[0x2](eng): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/bt470bg/smpte170m, progressive), 1920x842, 5811 kb/s, 30.02 fps, 29.42 tbr, 90k tbn (default)
+[2025-08-30 14:14:20] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png':
+[2025-08-30 14:14:20] [FFMPEG STDERR]   Stream #0:1 -> #0:0 (h264 (native) -> png (native))
+[2025-08-30 14:14:21] [FFMPEG STDERR]   Metadata:
+[2025-08-30 14:14:21] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:21] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:21] [FFMPEG STDERR] [swscaler @ 00000173d0779840] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:21] [FFMPEG STDERR] Stream mapping:
+[2025-08-30 14:14:21] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:21] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:21] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:21] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:21] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:21] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:21] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+[2025-08-30 14:14:21] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:21] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:21] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:21] [FFMPEG STDERR]   Stream #0:1 -> #0:0 (h264 (native) -> png (native))
+[2025-08-30 14:14:21] [FFMPEG STDERR] Press [q] to stop, [?] for help
+[2025-08-30 14:14:21] [FFMPEG STDERR]     major_brand     : mp42
+[2025-08-30 14:14:22] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:22] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 29.94 fps, 29.94 tbn (default)
+[2025-08-30 14:14:22] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:22] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:22] [FFMPEG STDERR]     com.android.version: 14
+[2025-08-30 14:14:22] [FFMPEG STDERR] [image2 @ 000002a45c536840] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:22] [FFMPEG STDERR] [image2 @ 000002a45c536840] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:22] [FFMPEG STDERR]   Stream #0:0(eng): Video: png, rgb24(pc, gbr/bt470bg/smpte170m, progressive), 320x140, q=2-31, 200 kb/s, 30.02 fps, 30.02 tbn (default)
+[2025-08-30 14:14:22] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:22] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:22] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:22] [FFMPEG STDERR] [swscaler @ 00000177ec874d80] deprecated pixel format used, make sure you did set range correctly
+[2025-08-30 14:14:22] [FFMPEG STDERR] Output #0, image2, to 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png':
+[2025-08-30 14:14:22] [FFMPEG STDERR] [out#0/image2 @ 000001cf94379380] video:62KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:22] [FFMPEG STDERR]       Metadata:
+[2025-08-30 14:14:22] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:22] [FFMPEG STDERR]         vendor_id       : [0][0][0][0]
+[2025-08-30 14:14:22] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:22] [FFMPEG STDERR]     compatible_brands: isommp42
+[2025-08-30 14:14:22] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:23] [FFMPEG STDERR]     minor_version   : 0
+[2025-08-30 14:14:23] [FFMPEG STDERR] [image2 @ 00000131026aed00] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:23] [FFMPEG STDERR] [out#0/image2 @ 000001310268b780] video:66KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:23] [FFMPEG STDERR] [image2 @ 00000173c9b7d1c0] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:23] [FFMPEG STDERR] 
+[2025-08-30 14:14:23] [FFMPEG STDERR] [out#0/image2 @ 000002010fb89300] video:35KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:23] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.588x    
+[2025-08-30 14:14:23] [FFMPEG STDERR]         creation_time   : 2025-01-28T01:58:55.000000Z
+[2025-08-30 14:14:23] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:23] [FFMPEG STDERR]     encoder         : Lavf61.1.100
+[2025-08-30 14:14:23] [FFMPEG STDERR] [image2 @ 000002999ae993c0] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:23] [FFMPEG STDERR] 
+[2025-08-30 14:14:23] [FFMPEG STDERR]         creation_time   : 2025-01-28T07:13:46.000000Z
+[2025-08-30 14:14:23] [FFMPEG STDERR]         handler_name    : VideoHandle
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:23] [ProjectModel] LastModified: 2025/08/27 16:17:21
+[2025-08-30 14:14:23] [FFMPEG STDERR] [image2 @ 00000177e4de9280] The specified filename 'C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png' does not contain an image sequence pattern or a pattern is invalid.
+[2025-08-30 14:14:23] [FFMPEG STDERR] [image2 @ 00000177e4de9280] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[2025-08-30 14:14:23] [FFMPEG STDERR] [out#0/image2 @ 00000177e4dec7c0] video:46KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[2025-08-30 14:14:23] [FFMPEG STDERR] frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.03 bitrate=N/A speed=0.476x    
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:23] [ProjectModel] LastModified: 2025/08/27 16:17:33
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:23] [ProjectModel] LastModified: 2025/08/27 16:17:45
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:23] [ProjectModel] LastModified: 2025/08/27 16:17:16
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:23] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:23] [ProjectModel] LastModified: 2025/08/27 16:17:37
+[2025-08-30 14:14:23] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:25
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:37
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:45
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:33
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:49
+[2025-08-30 14:14:24] [SUCCESS] Thumbnail生成完了: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:09
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:29
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:25
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\3.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:21
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\7.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:37
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\9.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:49
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\5.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:29
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\4.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:25
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\2.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:16
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\1.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:09
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\6.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:33
+[2025-08-30 14:14:24] [ThumbnailGenerator] thumbPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-proC:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.pngjectlist\Images\8.png
+[2025-08-30 14:14:24] [ProjectModel] ThumbnailPath: C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\ymm-projectlist\Images\8.png
+[2025-08-30 14:14:24] [ProjectModel] LastModified: 2025/08/27 16:17:45

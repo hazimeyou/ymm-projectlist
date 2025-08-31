@@ -1,9 +1,12 @@
 ﻿using System;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Windows.Media;
+using ymm_projectlist.sousawindow;
+using ymm_projectlist.urakata;
 
-namespace ymm_projectlist
+namespace ymm_projectlist.meinwindow
 {
     public class ProjectModel : INotifyPropertyChanged
     {
@@ -25,21 +28,29 @@ namespace ymm_projectlist
         public string ThumbnailPath
         {
             get => _thumbnailPath;
-            set { _thumbnailPath = value; OnPropertyChanged(); }
+            set
+            {
+                _thumbnailPath = value;
+                LogHelper.WriteAsync($"[ProjectModel] ThumbnailPath: {_thumbnailPath}");
+                OnPropertyChanged();
+            }
         }
-
         private ImageSource _thumbnail;
         public ImageSource Thumbnail
         {
             get => _thumbnail;
-            set { _thumbnail = value; OnPropertyChanged(); }
+            set { _thumbnail = value;
+                LogHelper.WriteAsync($"[ProjectModel] Thumbnail: {Thumbnail}");
+                OnPropertyChanged(); }
         }
 
         private DateTime _lastModified;
         public DateTime LastModified
         {
             get => _lastModified;
-            set { _lastModified = value; OnPropertyChanged(); OnPropertyChanged(nameof(LastModifiedDisplay)); }
+            set { _lastModified = value; OnPropertyChanged(); 
+                LogHelper.WriteAsync($"[ProjectModel] LastModified: {LastModified}"); 
+                OnPropertyChanged(nameof(LastModifiedDisplay)); }
         }
 
         // 表示用
@@ -47,9 +58,11 @@ namespace ymm_projectlist
             ? ""
             : LastModified.ToString("yyyy/MM/dd tt h:mm", System.Globalization.CultureInfo.CurrentCulture);
 
+        // タイムラインアイテムを保持
+        public ObservableCollection<TimelineItemModel> TimelineItems { get; set; } = new ObservableCollection<TimelineItemModel>();
+
         public event PropertyChangedEventHandler PropertyChanged;
         private void OnPropertyChanged([CallerMemberName] string propertyName = null)
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-
     }
 }

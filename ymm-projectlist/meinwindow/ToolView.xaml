@@ -32,7 +32,9 @@
 
                 <ItemsControl.ItemTemplate>
                     <DataTemplate>
+                        
                         <Border Width="150" Height="140" Margin="5" Background="#FFEEEEEE" CornerRadius="5"
+                                MouseRightButtonUp="ProjectTile_MouseRightButtonUp"
                                 MouseLeftButtonUp="ProjectTile_MouseLeftButtonUp">
                             <Grid>
                                 <Grid.RowDefinitions>

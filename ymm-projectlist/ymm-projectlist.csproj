@@ -8,7 +8,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 	<Target Name="CopyPluginDll" AfterTargets="Build">
-		<Copy SourceFiles="$(TargetDir)ymm-projectlist.dll" DestinationFolder="C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\plugin\a" SkipUnchangedFiles="true" />
+		<Copy SourceFiles="$(TargetDir)ymm-projectlist.dll" DestinationFolder="C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\plugin\ymm-projectlist" SkipUnchangedFiles="true" />
 	</Target>
 	<ItemGroup>
 	  <Reference Include="YukkuriMovieMaker">
@@ -24,7 +24,4 @@
 	    <HintPath>..\..\..\..\Desktop\YukkuriMovieMaker_v4\YukkuriMovieMaker.Plugin.Community.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-	<Target Name="CopyPluginDll" AfterTargets="Build">
-		<Copy SourceFiles="$(TargetDir)ymm-projectlist.dll" DestinationFolder="C:\Users\hazimeyou\Desktop\YukkuriMovieMaker_v4\user\plugin\a" SkipUnchangedFiles="true" />
-	</Target>
 </Project>
