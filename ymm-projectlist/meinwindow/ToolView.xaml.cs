@@ -19,9 +19,15 @@ namespace ymm_projectlist
             AllowDrop = true;
             Drop += ToolView_Drop;
 
-            // 起動時にプロジェクト読み込み
-            Loaded += async (s, e) => await _viewModel.LoadProjectsAsync();
+            // コンストラクタで非同期処理を呼ぶ
+            _ = InitializeAsync();
         }
+
+        private async Task InitializeAsync()
+        {
+            await _viewModel.LoadProjectsAsync();
+        }
+
 
         private void ToolView_Drop(object sender, DragEventArgs e)
         {

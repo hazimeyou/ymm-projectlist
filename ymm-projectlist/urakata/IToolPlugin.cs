@@ -7,8 +7,6 @@ namespace ymm_projectlist.urakata
         public string Name => "プロジェクトリスト";
         public Type ViewModelType => typeof(ToolViewModel);
         public Type ViewType => typeof(ToolView);
-
-
     }
 }
 //内部管理
