@@ -1,18 +1,4 @@
-﻿using System;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.IO;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text.Json;
-using System.Threading.Tasks;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using YukkuriMovieMaker.Project.Items;
-using ymm_projectlist.sousawindow;
-using ymm_projectlist.urakata;
-namespace ymm_projectlist.meinwindow
+﻿namespace ymm_projectlist.meinwindow
 {
     public class ToolViewModel : INotifyPropertyChanged
     {

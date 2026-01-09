@@ -1,8 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Threading.Tasks;
-
-namespace ymm_projectlist.urakata
+﻿namespace ymm_projectlist.Utils
 {
     public static class LogHelper
     {

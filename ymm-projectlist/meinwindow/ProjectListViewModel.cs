@@ -1,21 +1,4 @@
-﻿using System;
-using System.CodeDom.Compiler;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text.Json;
-using System.Threading.Tasks;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using ymm_projectlist.sousawindow;
-using ymm_projectlist.urakata;
-using YukkuriMovieMaker;
-using YukkuriMovieMaker.Plugin;
-using YukkuriMovieMaker.Project;
-namespace ymm_projectlist.meinwindow
+﻿namespace ymm_projectlist.meinwindow
 {
     public class ProjectListViewModel : INotifyPropertyChanged
     {

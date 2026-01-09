@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System.IO;
-using System.Linq;
 using System.Text.Json;
 using System.Windows;
 using System.Windows.Media;
-using ymm_projectlist.sousawindow;
 using ymm_projectlist.urakata;
 
-namespace ymm_projectlist
+namespace ymm_projectlist.sousawindow
 {
     public partial class FileListWindow : Window
     {

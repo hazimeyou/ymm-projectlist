@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
-using System.Windows.Media;
-using ymm_projectlist.sousawindow;
-using ymm_projectlist.urakata;
-
-namespace ymm_projectlist.meinwindow
+﻿namespace ymm_projectlist.meinwindow
 {
     public class ProjectModel : INotifyPropertyChanged
     {

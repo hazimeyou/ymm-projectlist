@@ -1,8 +1,4 @@
-﻿using System;
-using System.CodeDom.Compiler;
-using System.Windows.Input;
-
-namespace ymm_projectlist.urakata
+﻿namespace ymm_projectlist.urakata
 {
     public class RelayCommand : ICommand
     {

@@ -1,9 +1,5 @@
-﻿using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Input;
-using ymm_projectlist.meinwindow;
-
-namespace ymm_projectlist
+﻿
+namespace ymm_projectlist.meinwindow
 {
     public partial class ToolView : UserControl
     {

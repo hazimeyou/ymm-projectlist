@@ -1,13 +1,4 @@
-﻿using System;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Text.Json.Nodes;
-using System.Threading.Tasks;
-using ymm_projectlist.urakata;
-using YukkuriMovieMaker.Plugin;
-
+﻿
 namespace ymm_projectlist.sousawindow
 {
     public static class ThumbnailGenerator

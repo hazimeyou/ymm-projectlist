@@ -1,10 +1,4 @@
-﻿using System.ComponentModel;
-using System.Runtime.CompilerServices;
-using System.Windows.Media;
-using System.Windows.Shell;
-using ymm_projectlist.urakata;
-
-namespace ymm_projectlist.sousawindow
+﻿namespace ymm_projectlist.sousawindow
 {
     public class TimelineItemModel : INotifyPropertyChanged
     {
